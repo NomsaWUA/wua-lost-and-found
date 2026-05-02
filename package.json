@@ -1,0 +1,24 @@
+{
+  "name": "wua-lost-and-found",
+  "version": "1.0.0",
+  "description": "",
+  "main": "itemFactory.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NomsaWUA/wua-lost-and-found.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NomsaWUA/wua-lost-and-found/issues"
+  },
+  "homepage": "https://github.com/NomsaWUA/wua-lost-and-found#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
